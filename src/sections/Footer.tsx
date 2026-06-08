@@ -89,8 +89,8 @@ export function Footer() {
             © {new Date().getFullYear()} Aurelia & Co. All rights reserved.
           </p>
           <p className="text-cream-200/30 text-xs">
-            Crafted with intention in Zurich.
-          </p>
+  Designed for timeless elegance.
+</p>
         </motion.div>
       </div>
     </footer>
